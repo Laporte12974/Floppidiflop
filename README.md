@@ -9,6 +9,6 @@ Pass the folder your frames are in as an argument for the script
 
 Have fun!
 
-###Example
+##Example
 
-bash script.sh FloppaSpin
+```bash script.sh FloppaSpin```
